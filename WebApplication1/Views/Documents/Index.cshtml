@@ -1,0 +1,20 @@
+﻿@model IEnumerable<WebApplication1.Models.ClaimDocument>
+@{
+    ViewData["Title"] = "Claim Documents";
+}
+
+<div class="max-w-5xl mx-auto mt-10">
+    <h1 class="text-2xl font-bold mb-6 text-gray-700">Claim Documents</h1>
+
+    <a href="/ClaimDocuments/Upload" class="bg-blue-600 text-white px-4 py-2 rounded-md hover:bg-blue-700">+ Upload New Document</a>
+
+    <ul class="mt-6 space-y-4">
+        @foreach (var doc in Model)
+        {
+            <li class="p-4 bg-white rounded-lg shadow flex justify-between items-center">
+                <span>@doc.FileName</span>
+                <a href="@doc.FilePath" class="text-blue-600 hover:underline">Download</a>
+            </li>
+        }
+    </ul>
+</div>

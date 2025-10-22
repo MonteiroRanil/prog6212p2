@@ -1,0 +1,11 @@
+﻿@page
+@model WebApplication1.Areas.Identity.Pages.Account.LogoutModel
+@{
+    ViewData["Title"] = "Logout";
+}
+
+<form method="post" class="text-center mt-5">
+    <h3>Are you sure you want to log out?</h3>
+    <button type="submit" class="btn btn-danger mt-3">Log out</button>
+    <a href="/" class="btn btn-secondary mt-3">Cancel</a>
+</form>
