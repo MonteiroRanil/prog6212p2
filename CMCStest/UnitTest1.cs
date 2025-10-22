@@ -100,4 +100,4 @@ namespace WebApplication1.Tests
             Assert.Equal("application/pdf", document.ContentType);
         }
     }
-}
+}//chat was used for the unit tests
