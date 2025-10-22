@@ -156,8 +156,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -178,7 +182,7 @@
               "RelativeDocumentMoniker": "..\\CMCStest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\CMCStest\\UnitTest1.cs",
               "RelativeToolTip": "..\\CMCStest\\UnitTest1.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAApwEoAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAhwDAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T22:31:27.582Z",
               "EditorCaption": ""
@@ -241,12 +245,7 @@
               "RelativeToolTip": "Views\\Claims\\Create.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T12:06:16.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-10-21T12:06:16.407Z"
             },
             {
               "$type": "Document",

@@ -46,7 +46,7 @@ namespace WebApplication1.Tests
             return controller;
         }
 
-        [Fact]
+        [Fact]//calculation
         public async Task CreateClaim_SetsTotalAmountCorrectly()
         {
             var context = GetInMemoryDbContext();
