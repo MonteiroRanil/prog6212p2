@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F60D63E6-4D2F-4266-92AD-0325ECE63D63}|WebApplication1.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_p2\\prog6212p2\\webapplication1\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F60D63E6-4D2F-4266-92AD-0325ECE63D63}|WebApplication1.csproj|solutionrelative:views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EE1A8808-EA5E-4E06-AD1E-8A40EA92C811}|..\\CMCStest\\CMCStest.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_p2\\prog6212p2\\cmcstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A8808-EA5E-4E06-AD1E-8A40EA92C811}|..\\CMCStest\\CMCStest.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_p2\\prog6212p2\\cmcstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F60D63E6-4D2F-4266-92AD-0325ECE63D63}|WebApplication1.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_p2\\prog6212p2\\webapplication1\\views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F60D63E6-4D2F-4266-92AD-0325ECE63D63}|WebApplication1.csproj|solutionrelative:views\\claims\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE1A8808-EA5E-4E06-AD1E-8A40EA92C811}|..\\CMCStest\\CMCStest.csproj|c:\\users\\lab_services_student\\desktop\\prog6212_p2\\prog6212p2\\cmcstest\\cmcstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -156,7 +156,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -172,13 +172,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\CMCStest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "..\\CMCStest\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\CMCStest\\UnitTest1.cs",
               "RelativeToolTip": "..\\CMCStest\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAApwEoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T22:31:27.582Z",
               "EditorCaption": ""
@@ -233,13 +233,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\WebApplication1\\Views\\Claims\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Claims\\Create.cshtml",
               "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\PROG6212_P2\\prog6212p2\\WebApplication1\\Views\\Claims\\Create.cshtml",
               "RelativeToolTip": "Views\\Claims\\Create.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCYAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-21T12:06:16.407Z",
               "EditorCaption": ""

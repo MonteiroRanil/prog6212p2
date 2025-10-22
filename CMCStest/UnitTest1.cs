@@ -72,7 +72,7 @@ namespace WebApplication1.Tests
             Assert.Equal("This is an additional note", claim.Notes);
         }
 
-        [Fact]
+        [Fact] //docs
         public async Task CreateClaim_SavesSupportingDocument()
         {
             var context = GetInMemoryDbContext();
